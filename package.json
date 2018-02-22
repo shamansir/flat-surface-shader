@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "deploy/fss.js",
-  "dependencies: {},
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {},
   "repository": {
