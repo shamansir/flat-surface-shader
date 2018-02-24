@@ -13,7 +13,7 @@ FSS = {
  * @class Array
  * @author Matthew Wagerfield
  */
-FSS.Array = typeof Float32Array === 'function' ? Float32Array : Array;
+FSS.Array = (typeof Float32Array === 'function') && (typeof window['FSSAvoidFloat32Array'] === 'undefined') ? Float32Array : Array;
 
 /**
  * @class Utils

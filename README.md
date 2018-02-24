@@ -1,3 +1,5 @@
+**THIS IS A HACKED VERSION INTENDED FOR PERSONAL USE, PREFER THE ORIGINAL ONE INSTEAD**
+
 # Flat Surface Shader [FSS]
 
 Simple, lightweight **Flat Surface Shader** written in **JavaScript** for rendering lit **Triangles** to a number of contexts. Currently there is support for **WebGL**, **Canvas 2D** and **SVG**. Check out this [demo][demo] to see it in action.
